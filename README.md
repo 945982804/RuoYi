@@ -7,7 +7,7 @@
 * 感谢 [hplus](https://gitee.com/hplus_admin/hplus) 后台主题 UI 框架。
 * 前后端分离版本，请移步[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)，微服务版本，请移步[RuoYi-Cloud](https://gitee.com/y_project/RuoYi-Cloud)
 * 阿里云优惠券：[点我进入](https://www.aliyun.com/minisite/goods?userCode=brki8iof&share_source=copy_link)，腾讯云优惠券：[点我领取](https://cloud.tencent.com/redirect.php?redirect=1025&cps_key=198c8df2ed259157187173bc7f4f32fd&from=console)&nbsp;&nbsp;
-
+-----------------------------------------------
 ## 内置功能
 
 1.  用户管理：用户是系统操作者，该功能主要完成系统用户配置。
